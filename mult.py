@@ -1,3 +1,3 @@
 def multiply(a,b):
-    c = a*b
-    return c
+    cd = a*b
+    return cd
